@@ -1,0 +1,51 @@
+
+.jumbotron{
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#jumbotron{
+    padding: 1%;
+}
+
+#title{
+    line-height: 2.2;
+    font-family: 'Frijole', cursive;
+}
+
+#subtitle{
+    color: gold;
+    line-height: 2.2;
+    font-family: 'Permanent Marker', cursive;
+   
+    
+}
+
+#Schedule{
+    width: 70%;
+    margin-left: 15%;
+}
+
+#header{
+    background-color: black;
+    color: white;
+}
+.table-title{
+    color: black;
+}
+
+#input{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: black;
+    
+}
+
+#train-name, #destination, #first-train, #frequency{
+    color: greenyellow;
+}
+
+
