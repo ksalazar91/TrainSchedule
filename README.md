@@ -3,7 +3,8 @@ This is a train schedule application that incorporates Firebase to host arrival 
 
 This database work by naming the train a superhero name from DC or Marvel's comics. The destination is going to be the name where the superhero base is on. 
 
-Ex: Train Name : SuperGirl
+Ex: 
+    Train Name : SuperGirl
     Destination : National City
 
     Train Name : Batman
