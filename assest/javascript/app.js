@@ -74,16 +74,6 @@ database.ref().on("child_added", function(childSnapshot){
 
     nextTrainArrival(frequency, firstTrain);
 
-    console.log(trainName);
-    console.log(destination);
-    console.log(firstTrain);
-    console.log(frequency);
-    console.log(minutesAway);
-    console.log(nextArrival);
-
-    // logins the first time the trains start to departure 
-  
-
     // Create the new row
     var newRow = $("<tr>").append(
     $("<td>").text(trainName),
@@ -98,3 +88,6 @@ database.ref().on("child_added", function(childSnapshot){
   $("#table > tbody").append(newRow);
 
 });
+
+
+//https://ksalazar91.github.io/Responsive-Portfolio/portfolio.html
