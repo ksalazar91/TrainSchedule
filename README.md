@@ -19,9 +19,9 @@ Ex:
     Train Name : The Avengers 
     Destination : New York
 
-3)First Train Time in HH:mm-military time
+3)First Train arrival Time in HH:mm-military time
 
-4)Frequncy the train arrival and departure. 
+4) Frequency the train arrival and departure. 
 
 
 
