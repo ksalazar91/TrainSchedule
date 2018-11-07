@@ -24,5 +24,13 @@ Ex:
 
 
 
+![Initial](https://github.com/ksalazar91/TrainSchedule/blob/master/1.png)
 
 
+Once the data is input the app will show an alert telling the user if the data was successful input in firebase.
+
+![alert](https://github.com/ksalazar91/TrainSchedule/blob/master/2.png)
+
+Finally, the table will update to display the new data
+
+![Data Update](https://github.com/ksalazar91/TrainSchedule/blob/master/3.png)
