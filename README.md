@@ -1,7 +1,8 @@
 # TrainScheduler
 
-https://ksalazar91.github.io/TrainSchedule/
+Web site: https://ksalazar91.github.io/TrainSchedule/
 
+# Overview
 This is a train schedule application that incorporates Firebase to host arrival and departure data.
 
 1)This database work by naming the train a superhero name from DC or Marvel's comics. 
